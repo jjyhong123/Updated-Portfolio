@@ -1,1 +1,3 @@
 # Updated-Portfolio
+
+This is my updated portfolio page. I used a mobile-responsive template for the styling and updated it with my own projects, picture, and contact info. The code for the projects can be accessed by clicking the GitHub icon and looking up projects in their respective repositories. In this same location, you can also learn more about each project by reading the README files, which have been updated at the time this project was deployed.
